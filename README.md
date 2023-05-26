@@ -8,7 +8,7 @@
 </p>
 
 ## MENAMPILKAN SEMUA DATA PADA SEBUAH TABLE KE DALAM SEBUAH VIEW 
-Cara yang digunakan adalah menggunakan Menjalankan Kueri SQL <br>
+Cara yang digunakan adalah dengan Menjalankan Kueri SQL <br>
 Setelah Anda mengonfigurasi koneksi database, Anda dapat menjalankan kueri menggunakan DBfasad. Fasad DBmenyediakan metode untuk setiap jenis kueri: select, update, insert, delete, dan statement.
 
 
