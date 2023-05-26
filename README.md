@@ -12,9 +12,9 @@ Cara yang digunakan adalah menggunakan Menjalankan Kueri SQL <br>
 Setelah Anda mengonfigurasi koneksi database, Anda dapat menjalankan kueri menggunakan DBfasad. Fasad DBmenyediakan metode untuk setiap jenis kueri: select, update, insert, delete, dan statement.
 
 
-## Learning Laravel
+## Rujukan
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+ [documentation](https://laravel.com/docs/9.x/database#running-queries) 
 
 ## License
 
