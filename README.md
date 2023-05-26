@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## MENAMPILKAN SEMUA DATA KE DALAMSEBUAH VIEW 
+## MENAMPILKAN SEMUA DATA PADA SEBUAH TABLE KE DALAM SEBUAH VIEW 
 Cara yang digunakan adalah menggunakan Menjalankan Kueri SQL <br>
 Setelah Anda mengonfigurasi koneksi database, Anda dapat menjalankan kueri menggunakan DBfasad. Fasad DBmenyediakan metode untuk setiap jenis kueri: select, update, insert, delete, dan statement.
 
